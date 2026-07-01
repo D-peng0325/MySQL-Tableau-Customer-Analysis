@@ -59,7 +59,7 @@
 
 
 通过MySQL Workbench 新建一个数据库database，导入好下载的文件（文件类型选择csv utf-8），表格命名为shopping_trends。
-![alt text](image.png)
+<img width="460" height="688" alt="image" src="https://github.com/user-attachments/assets/41e636f3-89e1-4f1e-90cc-22eb08c4e521" />
 
 
 3.2 数据预处理
@@ -68,9 +68,11 @@
 第一步：查看数据
 
 
-![alt text](<屏幕截图 2026-07-01 175526.png>)
+<img width="128" height="68" alt="屏幕截图 2026-07-01 175526" src="https://github.com/user-attachments/assets/a9422659-3b3b-46a2-b0ff-18b962a18447" />
 
-![alt text](<屏幕截图 2026-07-01 175554.png>)
+
+<img width="980" height="227" alt="屏幕截图 2026-07-01 175554" src="https://github.com/user-attachments/assets/54819d22-5f99-4aac-89fa-0a72d94e48f8" />
+
 
 
 结果正常
@@ -79,7 +81,7 @@
 第二步：缺失值检测及处理
 
 
-![alt text](<屏幕截图 2026-07-01 173807.png>)
+<img width="273" height="329" alt="屏幕截图 2026-07-01 173807" src="https://github.com/user-attachments/assets/5abc7877-c6e6-443b-be2d-5606eeb679c0" />
 
 
 结果显示无缺失值
@@ -88,7 +90,7 @@
 第三步：重复值检测及处理
 
 
-![alt text](<屏幕截图 2026-07-01 174001.png>)
+<img width="677" height="278" alt="屏幕截图 2026-07-01 174001" src="https://github.com/user-attachments/assets/b2c79d65-c63d-4ea5-a980-ce305e2e0c58" />
 
 
 四 数据分析
@@ -103,36 +105,42 @@
 4.1.1 年龄分布
 
 
-![alt text](<屏幕截图 2026-07-01 174129.png>)
-![alt text](<屏幕截图 2026-07-01 174208.png>)
+<img width="329" height="329" alt="屏幕截图 2026-07-01 174129" src="https://github.com/user-attachments/assets/80030a61-2ae4-4ab8-a9b1-fb3f7c265821" />
+<br>
+<img width="207" height="143" alt="屏幕截图 2026-07-01 174208" src="https://github.com/user-attachments/assets/ec1c6e5a-b202-4108-a203-f30e8f69bc87" />
 
 
 4.1.2 性别比例
 
 
-![alt text](<屏幕截图 2026-07-01 175914.png>)
-![alt text](<屏幕截图 2026-07-01 175923.png>)
+<img width="568" height="118" alt="屏幕截图 2026-07-01 175914" src="https://github.com/user-attachments/assets/3a9b6ad0-8b69-48a3-8992-d9d92a084b06" />
+<br>
+<img width="303" height="74" alt="屏幕截图 2026-07-01 175923" src="https://github.com/user-attachments/assets/f293e887-bd25-46aa-85a9-b6944605ed45" />
 
 
 在Tableau中导入数据后，创建计算字段’年龄段’、’男性人数’、’女性人数’、’平均消费金额’。
 
 
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+<img width="384" height="161" alt="image-1" src="https://github.com/user-attachments/assets/3c0a89ac-5be2-485b-b6ea-34f3b5743da6" />
+<br>
+<img width="314" height="62" alt="image-2" src="https://github.com/user-attachments/assets/e2feb1b3-4b41-41d6-b874-9f29db7ccfa0" />
+<br>
+<img width="230" height="54" alt="image-3" src="https://github.com/user-attachments/assets/ea8293de-8cca-41e7-bbef-ace1b441b206" />
+<br>
+<img width="203" height="55" alt="image-4" src="https://github.com/user-attachments/assets/582f8f3e-8ad0-4bf7-b522-df4952a0874c" />
+<br>
+<img width="649" height="577" alt="image-5" src="https://github.com/user-attachments/assets/32ab9489-aa9f-4c70-acca-78aef5404f3b" />
 
-![alt text](image-5.png)
 
 
 4.1.3 地域集中度
 
 
-![alt text](<屏幕截图 2026-07-01 175941.png>)
-
-![alt text](<屏幕截图 2026-07-01 175934.png>)
-
-![alt text](image-6.png)
+<img width="289" height="146" alt="屏幕截图 2026-07-01 175941" src="https://github.com/user-attachments/assets/7f5d4fd5-8491-4ea3-893a-ee778dac5cff" />
+<br>
+<img width="453" height="212" alt="屏幕截图 2026-07-01 175934" src="https://github.com/user-attachments/assets/3bf32c27-a48a-4b02-a1ca-fe4cdfa5cc75" />
+<br>
+<img width="606" height="573" alt="image-6" src="https://github.com/user-attachments/assets/cffdf9ff-bd32-4115-a235-5d9e78048afe" />
 
 
 4.1.4 小结
@@ -148,32 +156,36 @@
 
 4.2.1 畅销商品类别分析
 
-![alt text](<屏幕截图 2026-07-01 180728.png>)
 
-![alt text](<屏幕截图 2026-07-01 180735.png>)
+<img width="284" height="148" alt="屏幕截图 2026-07-01 180728" src="https://github.com/user-attachments/assets/5a04f944-8065-4c23-a4e2-31b454c5a5fa" />
+<br>
+<img width="425" height="110" alt="屏幕截图 2026-07-01 180735" src="https://github.com/user-attachments/assets/2768f83e-35ba-4b22-afcd-c5e905ec452f" />
+<br>
+<img width="1096" height="581" alt="image-7" src="https://github.com/user-attachments/assets/20b2662b-cb30-4d89-9d18-bdfb66927e6b" />
 
-![alt text](image-7.png)
 
 4.2.2 商品颜色偏好分析
 
-![alt text](<屏幕截图 2026-07-01 180851.png>)
 
-![alt text](<屏幕截图 2026-07-01 180903.png>)
-
-![alt text](image-8.png)
+<img width="280" height="147" alt="屏幕截图 2026-07-01 180851" src="https://github.com/user-attachments/assets/15259592-0be8-4783-98fb-f4eb4fba1c13" />
+<br>
+<img width="406" height="212" alt="屏幕截图 2026-07-01 180903" src="https://github.com/user-attachments/assets/d36b70c0-0c79-42f3-954f-33f893a676c8" />
+<br>
+<img width="1091" height="584" alt="image-8" src="https://github.com/user-attachments/assets/6caa9786-b49c-4deb-b245-41ec3f715ebc" />
 
 
 4.2.3 季节性销售趋势分析
 
-![alt text](<屏幕截图 2026-07-01 181006.png>)
 
-![alt text](<屏幕截图 2026-07-01 181013.png>)
-
-![alt text](<屏幕截图 2026-07-01 181248.png>)
-
-![alt text](<屏幕截图 2026-07-01 181320.png>)
-
-![alt text](<屏幕截图 2026-07-01 181306.png>)
+<img width="279" height="136" alt="屏幕截图 2026-07-01 181006" src="https://github.com/user-attachments/assets/4097f836-14d7-469e-8946-878b9bc62212" />
+<br>
+<img width="410" height="107" alt="屏幕截图 2026-07-01 181013" src="https://github.com/user-attachments/assets/ce27ee51-cc52-4838-b682-721142527ea3" />
+<br>
+<img width="1096" height="581" alt="屏幕截图 2026-07-01 181248" src="https://github.com/user-attachments/assets/7dceb9be-4abb-4201-ac6e-e163407a14e7" />
+<br>
+<img width="850" height="533" alt="屏幕截图 2026-07-01 181320" src="https://github.com/user-attachments/assets/567da6ef-5645-4c75-a6fa-2d8af6aa4bf3" />
+<br>
+<img width="848" height="532" alt="屏幕截图 2026-07-01 181306" src="https://github.com/user-attachments/assets/a5291e2d-1e8d-4e31-8676-84d71213a859" />
 
 
 4.2.4 小结
@@ -193,18 +205,20 @@
 
 4.3.1支付方式偏好分析
 
-![alt text](<屏幕截图 2026-07-01 181453.png>)
 
-![alt text](<屏幕截图 2026-07-01 181459.png>)
+<img width="584" height="113" alt="屏幕截图 2026-07-01 181453" src="https://github.com/user-attachments/assets/b2611773-65f6-4330-83b3-10cc1c58a0b0" />
+<br>
+<img width="377" height="140" alt="屏幕截图 2026-07-01 181459" src="https://github.com/user-attachments/assets/44a1fe8b-85ae-4684-9237-00432996ae7c" />
 
 
 4.3.2 配送方式偏好分析
 
-![alt text](<屏幕截图 2026-07-01 181544.png>)
 
-![alt text](<屏幕截图 2026-07-01 181559.png>)
-
-![alt text](image-9.png)
+<img width="586" height="117" alt="屏幕截图 2026-07-01 181544" src="https://github.com/user-attachments/assets/094281f7-4975-475e-b126-8e4f6cd18501" />
+<br>
+<img width="484" height="143" alt="屏幕截图 2026-07-01 181559" src="https://github.com/user-attachments/assets/1a9cf9c7-4522-4276-9d5b-ab62d7a873a4" />
+<br>
+<img width="953" height="500" alt="image-9" src="https://github.com/user-attachments/assets/7d21c5db-4e4d-4fda-a1e1-efd8e3bf06ea" />
 
 
 4.3.3 优惠活动效果分析
@@ -213,11 +227,11 @@
 在创建’优惠组合字段’探究优惠码与折扣的叠加效果后，发现客户要么两者都使用，要么都不使用，并没有仅折扣或仅优惠码的情况，这可能与商家的促销活动有关，因此选择折扣这一指标探究优惠活动效果。
 
 
-![alt text](image-10.png)
-
-![alt text](image-11.png)
-
-![alt text](image-12.png)
+<img width="383" height="157" alt="image-10" src="https://github.com/user-attachments/assets/2ba23010-d875-4132-b546-84303fa4ae92" />
+<br>
+<img width="188" height="322" alt="image-11" src="https://github.com/user-attachments/assets/5df17adb-a24b-499e-973d-b91f45a45272" />
+<br>
+<img width="1014" height="581" alt="image-12" src="https://github.com/user-attachments/assets/bdaaea04-5268-46ea-930b-51fef481f9ca" />
 
 
 4.3.4 小结
@@ -235,25 +249,21 @@
 4.4.1 历史购买次数分析
 
 
-![alt text](<屏幕截图 2026-07-01 201521.png>)
-
-
-![alt text](<屏幕截图 2026-07-01 201532.png>)
+<img width="583" height="196" alt="屏幕截图 2026-07-01 201521" src="https://github.com/user-attachments/assets/75996604-65b4-4865-bc9a-887a65abbb27" />
+<br>
+<img width="329" height="107" alt="屏幕截图 2026-07-01 201532" src="https://github.com/user-attachments/assets/ec622830-b8b6-41fe-bf31-9949ff20e9ef" />
 
 
 4.4.2 购买频率分析
 
 
-![alt text](image-13.png)
-
-
-![alt text](image-14.png)
-
-
-![alt text](image-15.png)
-
-
-![alt text](image-16.png)
+<img width="541" height="343" alt="image-13" src="https://github.com/user-attachments/assets/f7524713-7c02-49d2-8057-31b4fb360966" />
+<br>
+<img width="680" height="158" alt="image-14" src="https://github.com/user-attachments/assets/3680d98a-ab09-4cf1-9379-b9ba6d8ce509" />
+<br>
+<img width="385" height="158" alt="image-15" src="https://github.com/user-attachments/assets/4ec4d7ca-4004-451f-996d-696be1f2c729" />
+<br>
+<img width="1025" height="575" alt="image-16" src="https://github.com/user-attachments/assets/3e406513-7c51-4580-a416-743f57ef4a45" />
 
 
 4.4.3 高复购用户的特征
@@ -262,16 +272,13 @@
 定义高复购用户：历史购买次数大于5次且购买频率至少为两周一次的用户
 
 
-![alt text](image-17.png)
-
-
-![alt text](image-18.png)
-
-
-![alt text](image-19.png)
-
-
-![alt text](image-20.png)
+<img width="758" height="200" alt="image-17" src="https://github.com/user-attachments/assets/9059f1b2-2d00-4fdc-9cdc-8ac9cb7af7aa" />
+<br>
+<img width="278" height="54" alt="image-18" src="https://github.com/user-attachments/assets/5d44f63c-5e63-4ade-9e6e-a2d5604bb3a8" />
+<br>
+<img width="383" height="158" alt="image-19" src="https://github.com/user-attachments/assets/c8c1f05a-36de-4f1b-ade9-1d25cea39c50" />
+<br>
+<img width="1033" height="572" alt="image-20" src="https://github.com/user-attachments/assets/5f3274c6-2a5b-467f-990d-0dc01431febf" />
 
 
 4.4.4 小结
@@ -305,37 +312,31 @@
 第一步：对各个指标赋值
 
 
-![alt text](image-21.png)
+<img width="678" height="379" alt="image-21" src="https://github.com/user-attachments/assets/0af061b0-89eb-4357-9444-5a26d6ecae1f" />
 
 
 第二步：对每个指标进行Min-Max归一化，使其得分范围统一映射到0-100之间，公式如下：
 
 
-![alt text](image-22.png)
-
-
-![alt text](image-23.png)
+<img width="373" height="175" alt="image-22" src="https://github.com/user-attachments/assets/43877d31-295f-4c27-a4f6-6967220b1fb7" />
+<br>
+<img width="656" height="162" alt="image-23" src="https://github.com/user-attachments/assets/e62e2184-15b4-4a35-94d7-952f1f7de860" />
 
 
 第三步：赋权得到忠诚度指数，进而划分为五个等级，0-20忠诚度极低、20-40忠诚度低、40-60忠诚度中等、60-80忠诚度高、80-100忠诚度极高。
 
 
-![alt text](image-24.png)
-
-
-![alt text](image-25.png)
-
-
-![alt text](image-26.png)
-
-
-![alt text](image-27.png)
-
-
-![alt text](image-28.png)
-
-
-![alt text](image-29.png)
+<img width="548" height="231" alt="image-24" src="https://github.com/user-attachments/assets/ae87b944-731e-49b4-bec5-2c37b42bd817" />
+<br>
+<img width="207" height="127" alt="image-25" src="https://github.com/user-attachments/assets/2d723e2b-c323-426f-a91d-1e040f7ba607" />
+<br>
+<img width="783" height="645" alt="image-26" src="https://github.com/user-attachments/assets/33696a85-37d3-4130-a495-cd89f74a1e7e" />
+<br>
+<img width="943" height="546" alt="image-27" src="https://github.com/user-attachments/assets/f50612f6-d50f-4207-9a82-d32f21af24c0" />
+<br>
+<img width="960" height="479" alt="image-28" src="https://github.com/user-attachments/assets/e5af7308-f2b8-4ba2-8a84-5242910516a7" />
+<br>
+<img width="458" height="532" alt="image-29" src="https://github.com/user-attachments/assets/24c41968-7bea-47b5-854c-12a57e75f6b2" />
 
 
 小结
